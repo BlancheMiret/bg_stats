@@ -1,1 +1,1 @@
-# bg_stats
+# Board game statistics
